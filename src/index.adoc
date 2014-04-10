@@ -1,0 +1,20 @@
+= Richtig Präsentieren
+:toclevels: 10
+:numbered:
+:icons: font
+version 0.5
+:toc:
+
+include::vorwort.adoc[]
+
+:leveloffset: 1
+include::kapitel1.adoc[]
+include::kapitel2.adoc[]
+include::kapitel3.adoc[]
+include::kapitel4.adoc[]
+include::kapitel5.adoc[]
+include::kapitel6.adoc[]
+:leveloffset: 0
+
+
+

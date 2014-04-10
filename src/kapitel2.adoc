@@ -1,0 +1,75 @@
+= Jeder ist anders
+Jeder ist anders, d.h. es gibt Naturtalente im Präsentationen halten, und es gibt Menschen, die es erlernen müssen. Dazu unterscheidet man zwei Bereiche, die gemeinsam beherrscht werden müssen um eine gute Präsentation abzuliefern:
+. Die Fähigkeit vor einem Publikum zu stehen und frei zu sprechen ohne nervös zu wirken und das Publikum (mehr oder minder) wach zu halten - evtl. sogar zu begeistern.
+. Die Fähigkeit eine Präsentation klar zu strukturieren, entsprechende Materialien vorzubereiten und die Idee dahinter verständlich zu machen (“eine Geschichte erzählen”)
+Die erste Fähigkeit bezieht sich auf die persönliche Ebene, wobei die zweite auf die technische abzielt. Das brechen wir aber noch mal ein wenig runter:
+
+== Die Kunst vor Publikum zu sprechen
+Um eine gute Präsentation zu halten ist es nötig sich wohl zu fühlen bei dem, was man tut. Vor einem Publikum zu sprechen ist stressig und verschiedene Leute reagieren unterschiedlich auf Stress. Gleich fallen einem Stressbewältigungsmethoden ein, die einem raten sich das Publikum nackt vorzustellen. TUT DAS NICHT! Das ist nur noch etwas, was ihr euch während der Präsentation merken müsst.
+Meistens sind Präsentationen stressig, weil man das eben nicht jeden Tag macht. Deshalb ist es wichtig zu *üben*! Sucht euch am besten eine leeren Raum (keine Arbeitsplatzatmosphäre) und STELLT EUCH HIN. Versucht alle nervösen Ticks während der Präsentation zu beobachten und anschließend gezielt abzustellen. Geht wirklich alle Folien durch - manche benötigen nur ein paar Sekunden, andere einige Minuten - und sagt laut und deutlich, was ihr zu sagen habt (nicht denken “und hier erzähle ich was zu den eingesetzten Techniken”, das bringt nichts). Relaxen, d.h. still stehen und nicht nervös rumzappeln, nur ein kurzer Blick auf die Folien um sich etwas ins Gedächtnis zu rufen, ansonsten die Augen auf das Publikum richten!
+Danach das Ganze wiederholen - am besten so lange, bis es langweilig wird (langweilig ist das Gegenteil von stressig!).
+Noch eine Anmerkung am Rande: Seid immer ein bisschen besser gekleidet, als eure Zuhörer. Wie viel ein bisschen ist kommt auch auf die Situation an. (Ausnahme: Ein 18-jähriger Designer der einem 18-jährigen Käufer coole Klamotten verkaufen will sollte nicht im Anzug auftreten).
+
+== Die Kunst gut zu sprechen
+Gerade auch das Sprechen selbst ist wichtig. Kann euer Publikum euch nicht verstehen, weil ihr zu leise seid und/oder nuschelt, oder weil ihr zu schnell seid ist das schlecht! Versucht euch beim Üben aufzunehmen und danach zu analysieren. “Waren die Pausen ok?”, “War ich zu schnell / leise / laut / langsam / …?”, “Benutze ich zu viele Füllwörter wie ‘ÄHMs’?”
+4 Punkte die man sich merken sollte:
+
+* langsam und normal atmen
+* die Lautstärke konstant halten
+* die Geschwindigkeit konstant halten, aber nicht monoton reden
+* klar und deutlich sprechen
+
+Dann das Ganze wiederholen und üben.
+Noch ein Tipp: Versucht möglichst frei zu sprechen und euch keine Notizen auf Zetteln mitzunehmen oder die Präsentation gar auswendig zu lernen. Das macht euch unflexibel bei Fragen und Themenwechseln und lässt euer Publikum evtl. an eurer Sicherheit zweifeln. Nutzt Karteikarten etc. nur, wenn es euch wirklich gar nicht gelingt frei zu sprechen und ihr häufiger mal ablesen müsst.
+
+== Die Kunst eine Präsentation zu strukturieren
+Es ist wichtig eine Präsentation zu strukturieren. Dazu gehört immer Anfang, Mittelteil und Ende - ihr müsst also eine ‘Geschichte’ erzählen.
+Präsentationen kann man auf viele verschiedene Wege ordnen, bspw. 
+
+* chronologisch - wie haben wir angefangen, was ist dann passiert, was ist heute
+* technisch - jede Komponente in der Reihenfolge ihrer Benutzung
+* hierarchisch - von oben nach unten oder umgekehrt
+* konzeptionell - erst konkrete Fakten beschreiben und dann die abstrakte Theorie oder anders herum
+
+Egal wie, aber wenn ihr euch für eine Möglichkeit entschieden habt versucht dabei zu bleiben. Versucht ebenfalls andere nach ihrer Meinung zur Strukturierung zu fragen um evtl. Probleme aufzudecken und/oder fehlende Punkte zu ergänzen.
+Dazu noch 5 Tipps zu Herangehensweise:
+
+. Outline - Eine ‘Story’ in die Präsentation bringen (evtl. auch im Team, wobei einer das letzte Wort dazu haben sollte)
+. Draft - Eine vollständige Präsentation erstellen, auch wenn noch ein paar Platzhalter vorhanden sind.
+. Probevortrag - Einen Kollegen, Freund (oder die Gruppe) zu einem Probevortrag einladen und den vollständigen Draft präsentieren. Dabei die Fragen diskutieren und in die Präsentation einbringen. So wird sie besser!
+. Polieren - Wenn ihr sicher seid, dass die Präsentation perfekt ist fangt an mit Design (Templates!), merzt Fehler in der Rechtschreibung aus, achtet auf Konsistenz und fügt relevante! Grafiken ein etc.
+. Auch wenn ich es schon erwähnt habe: ÜBEN! ÜBEN! ÜBEN!
+
+Über die richtigen Höhepunkte sollte man ebenfalls nachdenken. Gleich zu Anfang einen kleinen Höhepunkt lässt das Publikum aufhorchen und denken, dass eure Präsentation die Zeit wert ist. Dann arbeitet auf einen weiteren (am besten noch größeren) Höhepunkt am Ende der Präsentation hin.
+Beispiel: Ein kleiner relevanter Gag am Anfang und eine perfekt funktionierende Demo des Produkts am Schluss?!
+
+=== Das Publikum
+Es ist schwierig, aber wichtig sein Publikum zu kennen und einzuschätzen. Prinzipiell gibt es zwei Arten: Die, die alles wissen und die, die nichts wissen.
+
+==== Die, die nichts wissen
+Stellt sicher, dass dieses Publikum viele Fakten mitnimmt, also dass eure Präsentation zielgerichtet und detailliert ist:
+
+* Benutzt Grafiken um zu zeigen über WAS ihr sprecht
+* Benutzt Diagramme um zu zeigen WIE es funktioniert (das WIE und WAS sind jeweils austauschbar)
+* Benutzt Tabellen / Bullet-Lists um zu zeigen WAS für Features euer Produkt hat
+* Benutzt eine Timeline um zu zeigen WANN etwas stattfindet
+
+Stellt alle Fakten eines Features zusammen (am besten auf einer Folie) und benutzt Vergleiche zu Dingen, die das Publikum bereits kennt statt alles von vorne zu erklären.
+
+==== Die, die alles wissen
+Versucht euch hier in euer Publikum hinein zu versetzen und mögliche Fragen vorher zu klären und evtl. schon während der Präsentation zu beantworten. Wenn das nicht funktioniert, versucht einen Bulletpoint in eure Präsentation einzubauen, die darauf hinweist, dass ihr euch Gedanken dazu gemacht habt (“Die Auswirkungen dieses Features X werden gerade untersucht!”).
+
+==== Menschen mit anderem Fokus
+Um Menschen mit anderem Fokus ebenfalls zufrieden zu stellen kurz einige Hinweise zu Personen mit Fokus auf:
+
+===== Fakten
+Versucht am Anfang zu sagen _um was es geht_, kurz und knapp. (“3 mal schneller bei halbem Preis!”)
+
+===== Prozess
+Versucht am Anfang darauf hinzuweisen, dass alles genauestens auf den nächsten Folien erklärt wird. (“Wir gehen gleich darauf ein, wie unser Produkt im Detail funktioniert und warum es so schnell ist!”)
+
+===== Emotional
+Versucht zu erklären, warum gerade dieses Publikum sich die Zeit nehmen sollte zuzuhören. (“Weil es 3 mal so schnell ist wie Produkt Y, sparen ihre Angestellten 10 Stunden die Woche und können mit weniger Einsatz noch mehr erreichen!”).
+
+
+

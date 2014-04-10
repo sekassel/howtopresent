@@ -1,0 +1,25 @@
+= Generelle Tipps
+. Es geht nichts über einfache Sprache. Features nur mit Fachjargon erklären hilft niemandem, sonder führt höchstens dazu, dass euch schon bald keiner mehr zuhört.
+. *Seid früh da und bereitet euch gut vor.*
+* Bringt euren eigenen Rechner mit.
+* Stellt sicher, dass der Beamer rechtzeitig da, angeschlossen und funktionsfähig ist.
+* Versucht nicht eure Folien erst noch irgendwo runterzuladen oder zu kopieren. Platziert die Datei direkt auf dem Desktop - LOS!
+* Gebt kein _vollständiges_ Handout zur Präsentation heraus. Das veranlasst nur dazu schneller zu lesen und im Moment nicht relevante Fragen zu stellen.
+. Übernehmt die _Kontrolle_ im Raum und behaltet sie bis zum Schluss.
+* Sprecht laut und deutlich
+* Wenn die Folien länger brauchen um zu laden etc. sprecht weiter und erklärt um was es geht und wie es weitergeht. Steht nicht still herum und wartet, das wirkt unprofessionell.
+. Legt euch fest wie ihr Fragen beantworten wollt und haltet eure Präsentation dann genau wie ihr sie geübt habt:
+* Nett fragen, ob der Zuhörer sich seine Fragen evtl. bis zum Schluss aufheben kann.
+* Direkt und präzise antworten und nicht zulassen, dass die Fragerei ausufert und evtl. noch andere Themen gefragt werden.
+. Stellt euren Kollegen, die schon mit den Kunden zu tun hatten Fragen wie sie so drauf sind:
+* Interessiert sie eher die technische Seite und fragen sie viel danach?
+* Sind sie evtl. sogar gelangweilt / verwirrt von zu viel technischen Details?
+* Stellen sie häufiger die gleiche Frage (“Wie beeinflusst das jetzt unseren Workflow genau?”) usw.
+. Euer Team sollte genau zuhören und sich Notizen machen:
+* Haben alle die gleichen Fragen notiert?
+* Gab es Anmerkungen zwischendurch?
+* Ergeben sich aus dem anschließenden Gespräch neue Aufgaben? etc.
+
+ 
+ 
+ 
